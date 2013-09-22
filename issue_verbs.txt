@@ -1,0 +1,18 @@
+Add verbs to web site
+
+Right now, on the website, all the verbs have been replaced by the word 
+"verb" (or "verbing").
+
+We need some verbs! Otherwise, how will people know what to expect?
+
+It'd be great if someone can submit a pull request to fix this. Make 
+sure to only replace the placeholder verbs, not the real ones.
+
+Tip:
+
+To search for all the instances of adjective, try typing:
+
+    git grep -i verb
+
+in your terminal. You need the "-i" to search case-insensitively, since 
+the word "Verb" (with a capital V) does also appear.

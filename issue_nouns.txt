@@ -1,0 +1,17 @@
+Add nouns to web site
+
+Right now, on the website, all the nouns have been replaced by the word 
+"noun" (or "noun(s)").
+
+We need some nouns! Otherwise, what will the website be about?
+
+It'd be great if someone can submit a pull request to fix this. Make 
+sure to only replace the placeholder nouns, not the real ones.
+
+Tip:
+
+To search for all the instances of noun, try typing:
+
+    git grep noun
+
+in your terminal.
