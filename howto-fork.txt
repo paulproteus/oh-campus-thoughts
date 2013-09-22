@@ -1,0 +1,92 @@
+To fork a project on Github:
+
+* Start out logged in to Github
+
+* Visit the project you want to fork
+
+* Click the "Fork" button in the top-right
+
+* Wait for the animation to conclude
+
+* Notice that your browser is now visiting a copy of the project in your personal space,
+  rather than the old, group-owned one. You should also see a "fork of..." remark
+  in the top-left.
+
+
+Now, clone to it to your computer:
+
+* On the right side, look for the clone URL
+
+* Copy that to the clipboard
+
+* Open a terminal and type: "git clone " (including the space, but not including the quotation marks)
+
+* Use your terminal to "paste" the URL in
+
+* Once you've done that, 
+
+
+Now, make sure you have the project properly set up:
+
+* Open index.html in your favorite text editor -- it should look like a regular HTML page
+
+* Open index.html in your favorite web browser -- it should render just the same as
+    http://purdue.openhatch.org/
+
+* Make a test change in index.html, save, and reload in the browser. Make sure
+    what you see in the the browser reflects that change.
+
+* Undo that change, with your edtor, save, and then reload in the browser.
+    Make sure what you see in the browser reflects that change.
+
+
+Now, find a bug on the project's issue tracker that you will work on, and
+make it be assigned to yourself.
+
+Now, work with your text editor to resolve it!
+
+Now, commit your changes by typing:
+
+    git add index.html
+
+    git commit -m "Explanation of my changes"
+
+Now, publish those changes on Github by typing:
+
+    git push
+
+Now, visit Github and make sure your personal fork contains those changes.
+
+Now, visit your personal fork and click the "Pull requests" button on the right.
+This will offer you the chance to "Create...". Explain what you did, and leave
+a remark that this relates to the issue number you saw.
+
+Now, get feedback from the project's maintainer, and eagerly await your pull
+request getting merged!
+
+-- Asheesh.
+
+P.S. use the "bug report" thing.-- Asheesh.
+
+
+----
+
+List of bugs:
+
+for mad-libs
+
+* Nouns
+* Verbs
+* Adjectives
+
+Others:
+
+* Change images (C) -- make sure you're permitted, that's okay, and wikipedia etc.
+* Add your name to the bulleted list of your names to the bottom
+* Remove the tilde files
+* Forget to close a link
+* Use SSL links to OpenHatch
+* Forget to close a div
+* Tell people to remove blinking text because it is deprecated
+* CSS colors (conflicts)
+* end of line space characters
