@@ -9,4 +9,14 @@ you what the new images will be!
 
 Some tips:
 
-* Make sure that the images you add are 
+* Make sure that the licensing on the image gives you permission to 
+add them. An easy way to make sure if that is to choose Creative 
+Commons-licensed images. You can find great re-usable images on 
+Wikimedia Commons, at http://flickr.com/creativecommons , or by using 
+the advanced search within Google Image Search, just to name or by using 
+the advspecial 
+
+* You can find imagean fyou 
+have 
+permission to add the images to the 
+project.
